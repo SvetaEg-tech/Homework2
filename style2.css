@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(49, 239, 176);
+    
+}
+
+h1{
+    color: blanchedalmond;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    text-align: center;
+}
+h2{
+    color: rgb(51, 3, 51);
+}
+a{
+    color: rgb(238, 229, 238);
+}
+div{
+    background-color: beige;
+    
+    color: black;
+    margin: 10px;
+    padding: 20px;
+}
+.header{
+    background-color: blue;
+    color: azure;
+    height: 30px;
+}
+.card1{
+    background-color: aqua;
+    margin: 20px;
+    padding: 20px;
+    border: 3px solid;
+    border-radius: 5px;
+    border-color: blue;
+    img{
+        width: 400px;
+        border: 3px solid;
+        border-radius: 5px;
+        border-color: black;
+        }
+    }           
+.content5{
+    font-family: Bradley Hand, cursive;
+    li{
+        text-decoration: underline;
+    }
+}
+
+ table {
+    border-collapse: collapse; /* убирает двойные границы */
+    width: 100%;
+  }
+  td, th {
+    border: 1px solid #3a3535; /* тонкая серая рамка */
+    padding: 8px;
+     }
+  .footer{
+    background-color: rgb(122, 122, 228);
+    color: rgb(226, 238, 238);
+    height: 20px;
+    text-align: center;
+  }
+ 
+  textarea{
+    width: 100%;
+  }
+  
